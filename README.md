@@ -1,1 +1,2 @@
-netflix
+<h1>NETFLIX</h1>
+<SUP>“Welcome to my Calculator project repository! As a student with a keen interest in front-end development, I’ve created this calculator application to highlight my programming abilities and design acumen. This project features a sleek, intuitive calculator interface that supports basic arithmetic operations and advanced calculations. Peek into the source code to discover how I’ve employed modern JavaScript, CSS, and HTML techniques to deliver a seamless and visually appealing computational experience.”</SUP>
